@@ -1,0 +1,75 @@
+[
+    {
+       "title":"Why we use <br> element",
+       "answer_1":"To make text bold",
+       "answer_2":"To make text italic",
+       "answer_3":"To add breakline",
+       "answer_4":"To add horizontal line",
+       "right_answer":"To add breakline"
+    },
+    {
+        "title":"Is <img> element has attribute href  ",
+        "answer_1":"yes",
+        "answer_2":"No its for anshor ag <a>",
+        "answer_3":"All elements has this attribute",
+        "answer_4":"Answer 1 and 3 is right",
+        "right_answer":"No its for anshor tag <a>"
+     },
+     {
+        "title":"How can we make element text bold",
+        "answer_1":"Putting it inside <b> tag",
+        "answer_2":"Puttig it inside <strong ag>",
+        "answer_3":"Customizing it with font-weight property in css",
+        "answer_4":"All answers is right",
+        "right_answer":"All answers is right"
+     },
+     {
+        "title":"What does HTML stands for",
+        "answer_1":"Hypertext Machine language",
+        "answer_2":"Hypertext and links markup language",
+        "answer_3":"Hypertext Markup Language",
+        "answer_4":"Hightext machine language",
+        "right_answer":"Hypertext Markup Language"
+     },
+     {
+        "title":"How is document type initialized in HTML5",
+        "answer_1":"<!DOCTYPE HTML>",
+        "answer_2":"<!DOCTYPE HTML>",
+        "answer_3":"</DOCTYPE>",
+        "answer_4":"</DOCTYPE html>",
+        "right_answer":"<!DOCTYPE HTML>"
+     },
+     {
+        "title":"Which of the following HTML Elements is used for making any text bold",
+        "answer_1":"<p>",
+        "answer_2":"<b>",
+        "answer_3":"<i>",
+        "answer_4":"<li>",
+        "right_answer":"<b>"
+     },
+     {
+        "title":"Which of the following HTML element is used for creating an unordered list",
+        "answer_1":"<ui>",
+        "answer_2":"<em>",
+        "answer_3":"<i>",
+        "answer_4":"<ul>",
+        "right_answer":"<ul>"
+     },
+     {
+        "title":"What is the font-size of the h1 heading tag",
+        "answer_1":"3.5 em",
+        "answer_2":"2 em",
+        "answer_3":"1.5 em",
+        "answer_4":"2.17 em",
+        "right_answer":"2 em"
+     },
+     {
+        "title":"Which of the following is the correct way of creating an hyperlink in HTML",
+        "answer_1":"<a>www.geeksforgeeks.org Geeksforgeeks </a>",
+        "answer_2":"<a href=“www.geeksforgeeks.org” Geeksforgeeks </a>",
+        "answer_3":"<a href= “www.geeksforgeeks.org”>Geeksforgeeks</a>",
+        "answer_4":"<a link=“www.geeksforgeeks.org” Geeksforgeeks> </a>",
+        "right_answer":"<a href= “www.geeksforgeeks.org”>Geeksforgeeks</a>"
+     }
+     
+  ]
